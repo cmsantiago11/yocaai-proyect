@@ -50,6 +50,30 @@ Paquete x **5** y **10** unidades
 | 200 grs. | $ 30.600        | $ 57.200         |
 | 250 grs. | $ 38.300        | $ 71.500         |
 | 300 grs. | $ 45.900        | $ 85.800         |
+
+---
+
+# Cordon **Blue**
+
+Delicioso rollo de pollo con jamón, queso y tocineta, disfrútalo en 3 presentaciones:
+**Adobado** | **Milanesa (Apanado)** | **Tocineta**
+
+Paquete x **5** y **10** unidades
+
+*Adobado o Milanesa desde 100grs. Tocineta desde 120grs.*
+
+| Gramos   | Sencillo   | Milanesa   | Tocineta   |
+|----------|------------|------------|------------|
+| 100 grs. | $ 33.600   | $ 33.800   | -          |
+| 110 grs. | $ 37.000   | $ 37.200   | -          |
+| 120 grs. | $ 40.300   | $ 40.600   | $ 40.800   |
+| 130 grs. | $ 43.700   | $ 43.900   | $ 44.200   |
+| 140 grs. | $ 47.000   | $ 47.300   | $ 47.600   |
+| 150 grs. | $ 50.400   | $ 50.700   | $ 51.000   |
+| 180 grs. | $ 60.500   | $ 60.800   | $ 61.200   |
+| 200 grs. | $ 67.200   | $ 67.600   | $ 68.000   |
+| 250 grs. | $ 84.000   | $ 84.500   | $ 85.000   |
+| 300 grs. | N/D        | $ 101.400  | $ 102.000  |
 """
 
 # Crear el template de prompt con comportamiento específico
